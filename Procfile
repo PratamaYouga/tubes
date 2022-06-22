@@ -1,1 +1,1 @@
-web: setup.txt && streamlit run TUBES.py
+web: setup.txt && streamlit run TUBES.ipynb
